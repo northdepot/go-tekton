@@ -15,7 +15,7 @@ metadata:
     backstage.io/kubernetes-id: go-tekton 
     backstage.io/techdocs-ref: dir:. 
     quay.io/repository-slug: jduimovich0/bootstrap  
-    backstage.io/kubernetes-label-selector': 'janus-idp.io/tekton=go-tekton'  
+    backstage.io/kubernetes-label-selector: 'janus-idp.io/tekton=go-tekton'  
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
   type: service
